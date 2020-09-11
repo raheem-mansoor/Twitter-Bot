@@ -6,7 +6,7 @@ made by Raheem Mansoor and Peter Ebsen.
 
 # Instructions to install:
 
-1. Go to Twitter Developer and sign in using the Twitter account you want to use the bot with.#
+1. Go to Twitter Developer and sign in using the Twitter account you want to use the bot with.
 
 2. Once you are signed in go into the Developer Portal and create a new App/Project.
 
