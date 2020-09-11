@@ -18,7 +18,7 @@ made by Raheem Mansoor and Peter Ebsen.
    Access Token Secret: ""
    
 4. Copy each Key/Token and paste it into the Twitter-Bot v.2.1.sln File. (Leave the "" and copy the code in between!)
-   You can open this file with any Text-Editor of your choich. I recommend you to use Atom or Sublime Text
+   You can open this file with any Text-Editor of your choice. I recommend you to use Atom or Sublime Text
    
 5. After pasting the Keys and tokens into their correct position you can save the file. 
 
